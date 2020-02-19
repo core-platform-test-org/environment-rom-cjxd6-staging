@@ -1,4 +1,7 @@
 dependencies:
+- name: bdd-nh-1582105138
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: collie-buddz
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
